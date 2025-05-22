@@ -10,7 +10,7 @@
   "collegeName": "NITK",
   "baseUrl": "vlsi-nitk.vlabs.ac.in",
   "introduction": "The VLSI Design Testing Laboratory is designed to equip students with both theoretical knowledge and hands-on experience in the domain of Very Large-Scale Integration (VLSI) systems. Through a series of practical experiments, students will engage in designing, verifying, and testing a variety of VLSI circuits used in digital systems. These include applications such as ODD/EVEN parity generators, BCD-to-excess-3 code converters, and priority encoders. The lab also incorporates virtual simulations to help students build a strong foundation in both basic and advanced concepts of chip design and verification, thereby enhancing their comprehension of real-world VLSI applications.",
-  "experiment":[
+  "experiments":[
   {
     "name": "Detection of both SAO and SA1 faults on a VLSI circuit that represents 3-input ODD function",
     "short-name": "3-input-odd-function",
